@@ -1,6 +1,6 @@
 # Creating our printf function
--Here we create our own printf function, the basic and the main functions. Here we will apply the knowledge that we have acquired during the learning of c programming language
--This project is submitted to the ALX School of Software Engineering <br><br> 
+- Here we create our own printf function, the basic and the main functions. Here we will apply the knowledge that we have acquired during the learning of c programming language
+- This project is submitted to the ALX School of Software Engineering <br><br> 
 
 # Tasks
   0. Write a function that produces output according to a format and handle the following conversion specifiers:
