@@ -14,4 +14,4 @@
   
 # Authors
 - [Ndubumma Samuel](https://github.com/zinando/)
-- [Helen Ekati](https://github.com/)
+- [Helen Ekati](https://github.com/helenekati)
