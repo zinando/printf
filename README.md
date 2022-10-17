@@ -4,14 +4,14 @@
 
 # Tasks
   0. Write a function that produces output according to a format and handle the following conversion specifiers:
-    - c
-    - s
-    - %
+- c
+- s
+- %
   
   1. Handle the following conversion specifiers:
-    - d
-    - i
+- d
+- i
   
 # Authors
-  - @zinando
-  - Helen Ekati
+- @ zinando
+- Helen Ekati
