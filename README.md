@@ -13,5 +13,5 @@
 - i
   
 # Authors
-- @ zinando
-- Helen Ekati
+- [Ndubumma Samuel](https://github.com/zinando/)
+- [Helen Ekati](https://github.com/)
